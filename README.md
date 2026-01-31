@@ -69,22 +69,20 @@ python -m streamlit run streamlit_app.py
 
 ## Screenshots
 
-Image Upload:
-screenshots/Image_Upload.png
+### Image Upload:
+![HomePage](screenshots/Image_Upload.png)
 
-Kernel Selection:
-screenshots/kernel_Selection.png
+### Kernel Selection:
+![Kernel Selection](screenshots/kernel_Selection.png)
 
-Custom Kernel Matrix:
-screenshots/Custom_Kernel_Matrixe.png
+### Custom Kernel Matrix:
+![Custom Kernel Matrix](screenshots/Custom_Kernel_Matrixe.png)
 
 Original Image:
-screenshots/Original_Image.png
+![Original Image](screenshots/Original_Image.png)
 
 Convolution Output:
-screenshots/Convolution_Ouput.png
-
-
+![Convolution Output](screenshots/Convolution_Ouput.png)
 
 ---
 
