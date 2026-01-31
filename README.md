@@ -43,6 +43,7 @@ The application includes:
 ---
 
 ## Project Structure
+```text
 image_convolution_test/
 ├── convolution.py
 ├── main.py
@@ -51,7 +52,7 @@ image_convolution_test/
 ├── screenshots/
 ├── requirements.txt
 ├── README.md
-
+```
 ---
 
 ## How to Run the Project
@@ -82,7 +83,7 @@ Original Image:
 ![Original Image](Screenshots/Original_Image.png)
 
 Convolution Output:
-![Convolution Output](Screenshots/Convolution_Ouput.png)
+![Convolution Output](Screenshots/Convolution_Output.png)
 
 ---
 
