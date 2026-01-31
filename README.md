@@ -83,9 +83,23 @@ Original Image:
 ![Original Image](Screenshots/Original_Image.png)
 
 Convolution Output:
-![Convolution Output](Screenshots/Convolution_Output.png)
+Emboss
+![Convolution Output](Screenshots/Emboss_Image.png)
+
+Sharpen
+![Convolution Output](Screenshots/Sharpen_Image.png)
+
+Blur
+![Convolution Output](Screenshots/Blur_Image.png)
+
+Edge
+![Convolution Output](Screenshots/Edge_Image.png)
 
 ---
+
+### Backend & UI Terminals
+![Backend Logs](Screenshots/Backend.png)
+![Streamlit UI](Screenshots/Backend_UI_Terminals.png)
 
 ## Time Taken
 Approximately 6 hours including learning, implementation, testing, and documentation.
