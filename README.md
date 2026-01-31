@@ -76,13 +76,15 @@ python -m streamlit run streamlit_app.py
 ### Kernel Selection:
 ![Kernel Selection](Screenshots/kernel_Selection.png)
 
-### Custom Kernel Matrix:
-![Custom Kernel Matrix](Screenshots/Custom_Kernel_Matrixe.png)
-
 Original Image:
 ![Original Image](Screenshots/Original_Image.png)
 
+
+### Custom Kernel Matrix:
+![Custom Kernel Matrix](Screenshots/Custom_Kernel_Matrixe.png)
+
 Convolution Output:
+
 Emboss
 ![Convolution Output](Screenshots/Emboss_Image.png)
 
